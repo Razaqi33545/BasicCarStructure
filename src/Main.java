@@ -10,6 +10,11 @@ public class Main {
      x.cylinder = "8";
      x.size="1234cc";
      x.weight="6453k";
+
+     color col = new color();
+     col.colorlights = "True";
+        col.colortype = "false";
+        col.colorWindows = "True";
      
     }
 }
